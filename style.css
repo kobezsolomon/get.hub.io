@@ -402,7 +402,7 @@
     height: 100%;
    }
    .thequestionnery{
-
+   
     gap: 0%;
     margin: auto;
    }
@@ -414,6 +414,7 @@
     margin-left: 7px;
     border-bottom: 4px solid rgb(255, 255, 255);
     color: aliceblue;
+    font-size: 1.2rem ;
     
    }
    .paragraph{
@@ -501,14 +502,16 @@
     height: 50%;
   }
   .paragraphandbutton{
-    height:auto;
+    height:50%;
     width: 100%;
    
   }
   .paragraphandbutton button{
-    height: 100%;
+   height: 60%;
+   
+   width: 50%;
     margin-bottom: 10%;
-    padding: 1rem;
+    
   }
    }
   
