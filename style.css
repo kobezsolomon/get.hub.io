@@ -1,9 +1,6 @@
 
 
 
-    
-
-
     *{
         margin: 0px;
         padding: 0px;
@@ -441,7 +438,7 @@
   
    }
     .fristrow{
-   
+        color: rgb(255, 233, 108);
    
      margin-bottom: 1%;
   
@@ -491,5 +488,4 @@
     padding: 1rem;
   }
    }
-  
   
