@@ -93,6 +93,7 @@ let paragrapharray =["koba",
                 console.log(correct,"correct")
                } else{
                 notcorrect++;
+                correct = 0;
                 console.log(notcorrect,"notcorrect");
                 reset ()
             
@@ -105,6 +106,7 @@ let paragrapharray =["koba",
                 console.log(correct,"correct")
             } else{
                 notcorrect++;
+                correct = 0;
                 console.log(notcorrect,"notcorrect");
                 reset ()
                 
@@ -118,6 +120,7 @@ let paragrapharray =["koba",
                 console.log(correct,"correct")
             } else{
                 notcorrect++;
+                correct=0;
                 console.log(notcorrect,"notcorrect");
                 reset ()
                }
@@ -130,6 +133,7 @@ let paragrapharray =["koba",
                 console.log(correct,"correct")
             } else{
                 notcorrect++;
+                correct=0;
                 console.log(notcorrect,"notcorrect");
                 reset ()
                }
@@ -142,6 +146,7 @@ let paragrapharray =["koba",
                 console.log(correct,"correct")
             } else{
                 notcorrect++;
+                correct=0;
                 console.log(notcorrect,"notcorrect");
                 reset ()
                }
@@ -154,6 +159,7 @@ let paragrapharray =["koba",
                 console.log(correct,"correct")
             } else{
                 notcorrect++;
+                correct=0;
                 console.log(notcorrect,"notcorrect")
                 reset ()
                }
